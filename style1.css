@@ -1052,7 +1052,7 @@ button {
 button:hover {
 	transition: ease-in 120ms;
 	color: #0AC8F0;
-	background-color: rgb(43, 170, 26);
+	background-color: rgb(255, 0, 0);
 }
 
 /*---new header-*/
